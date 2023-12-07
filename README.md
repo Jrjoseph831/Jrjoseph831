@@ -3,7 +3,7 @@
 <h2>👨‍💻 SOC Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building a SOC + Honeynet in Azure w/Live Traffic)](https://github.com/Jrjoseph831/Azure-Cloud-SOC-Honeynet)
 
 <h2>📺 Popular YouTube Videos</h2>
 
