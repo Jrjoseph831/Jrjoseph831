@@ -5,7 +5,7 @@
 - [Building a SOC + Honeynet in Azure w/Live Traffic)](https://github.com/Jrjoseph831/Azure-Cloud-SOC-Honeynet)
 
 
-- [linkedin]: https://www.linkedin.com/in/josephhalljr
+- [Zero Trust Frameworks in Cybersecurity](https://github.com/Jrjoseph831/SD-Toolkit-SDT-)
 
 <h2> 🤳 Connect with me:</h2>
 
